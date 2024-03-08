@@ -771,4 +771,10 @@
    -webkit-transform: rotateX(-37deg) rotateY(-46deg) rotateZ(-23deg) translateX(8px) translateY(20px) translateZ(-50px);
            transform: rotateX(-37deg) rotateY(-46deg) rotateZ(-23deg) translateX(8px) translateY(20px) translateZ(-50px);
  }
- 
+ .technologies{
+  margin-top: 1rem;
+ }
+ .text-readMe{
+  font-size: 14px;
+  font-style: italic;
+ }
