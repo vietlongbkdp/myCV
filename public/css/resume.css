@@ -774,6 +774,12 @@
  .technologies{
   margin-top: 1rem;
  }
+ .note-Project{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 1.2rem;
+  font-style: italic;
+ }
  .text-readMe{
   font-size: 14px;
   font-style: italic;
