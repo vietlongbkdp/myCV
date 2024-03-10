@@ -115,7 +115,9 @@
  #sideNav .navbar-toggler:focus {
    outline-color: #d48a6e;
  }
- 
+ /* .nav-item .active{
+  color: white;
+ } */
  @media (min-width: 992px) {
    #sideNav {
      text-align: center;
@@ -158,7 +160,7 @@
      margin-bottom: auto;
    }
    #sideNav .navbar-collapse .navbar-nav {
-     -webkit-box-orient: vertical;
+     -webkit-box-orient:vertical;
      -webkit-box-direction: normal;
      -ms-flex-direction: column;
      flex-direction: column;
@@ -169,7 +171,7 @@
    }
    #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
      display: block;
-     /* color: rgba(255,255,255,.7); */
+     color: rgba(255,255,255,.7);
    }
  }
  
@@ -411,7 +413,6 @@
    margin-top: 5px;
  }
  
- /* https://codepen.io/carolineartz/pen/VwYwZaP */
  #bongo-cat {
    height: 30vh;
    width: 30vw;
